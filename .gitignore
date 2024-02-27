@@ -1,0 +1,6 @@
+.env
+node_modules
+processed/*
+!processed/info.md
+original/*
+!original/info.md

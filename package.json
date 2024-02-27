@@ -1,0 +1,23 @@
+{
+  "name": "genai",
+  "version": "1.0.0",
+  "description": "A utility project for GenAI use cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gen",
+    "ai",
+    "gpt"
+  ],
+  "author": "vivek",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "turndown": "^7.1.2"
+  }
+}
